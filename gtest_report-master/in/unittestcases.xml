@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="18" failures="0" disabled="0" errors="0" timestamp="2019-03-23T10:29:29" time="0.002" name="AllTests">
+  <testsuite name="parseRover" tests="3" failures="0" disabled="0" errors="0" time="0.001">
+    <testcase name="ut_1" status="run" time="0.001" classname="parseRover" />
+    <testcase name="ut_2" status="run" time="0" classname="parseRover" />
+    <testcase name="ut_3" status="run" time="0" classname="parseRover" />
+  </testsuite>
+  <testsuite name="parseVertex" tests="3" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="ut_4" status="run" time="0" classname="parseVertex" />
+    <testcase name="ut_5" status="run" time="0" classname="parseVertex" />
+    <testcase name="ut_6" status="run" time="0" classname="parseVertex" />
+  </testsuite>
+  <testsuite name="mapUserHeading" tests="6" failures="0" disabled="0" errors="0" time="0.001">
+    <testcase name="ut_7" status="run" time="0" classname="mapUserHeading" />
+    <testcase name="ut_8" status="run" time="0" classname="mapUserHeading" />
+    <testcase name="ut_9" status="run" time="0" classname="mapUserHeading" />
+    <testcase name="ut_10" status="run" time="0" classname="mapUserHeading" />
+    <testcase name="ut_11" status="run" time="0.001" classname="mapUserHeading" />
+    <testcase name="ut_12" status="run" time="0" classname="mapUserHeading" />
+  </testsuite>
+  <testsuite name="mapControllerHeading" tests="6" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="ut_13" status="run" time="0" classname="mapControllerHeading" />
+    <testcase name="ut_14" status="run" time="0" classname="mapControllerHeading" />
+    <testcase name="ut_15" status="run" time="0" classname="mapControllerHeading" />
+    <testcase name="ut_16" status="run" time="0" classname="mapControllerHeading" />
+    <testcase name="ut_17" status="run" time="0" classname="mapControllerHeading" />
+    <testcase name="ut_18" status="run" time="0" classname="mapControllerHeading" />
+  </testsuite>
+</testsuites>
